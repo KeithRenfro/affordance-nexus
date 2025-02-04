@@ -33,7 +33,7 @@ The response to the realization that Softmax forced the collapse of the latent f
  
 The research project began by examining whether the conventional approach to LLM prompt engineering woud enable the researcher to mine the LLM latent field for novelty. The research question asked: What if the latent field—immanent within an LLM—is much more than a collection of numerical activations; what if it is a dynamic, self-organizing ecosystem?
 
-On this hypothesis, in the ecosystem that is the GPT LLM latent field, each node can be seen as a niched entity, a conceptual property as a probable instantiation of a predicate class contributing to a broader potential transcendence of the predicate class. What was at question was the rich interplay between the boundaries of low-entropy, archetypical exemplars, and high-entropy, ambiguous instantiations, and, if so, how can the latent field predicate classes be mined? 
+On this hypothesis, in the ecosystem that is the GPT LLM latent field, each node can be seen as a niched entity, a conceptual property as a probable instantiation of a predicate class contributing to a broader potential transcendence of the predicate class. What was at question was whether there was a rich interplay between the boundaries of low-entropy, archetypical exemplars, and high-entropy, ambiguous instantiations, and, if so, how can the latent field predicate classes be mined? 
 
 Early experiments demonstrated that the latent field represents a fertile ground for generating novel, adaptive meaning. However, before those experiments could be performed, it was necessary to work out the prompt engineering challenge of getting Softmax to enable access to the higher-temperature instances of a predicate class. 
 
